@@ -31,7 +31,7 @@ int main(void){
     cin >> n >> k;
 
     int left = 1;
-    int right = n*n;
+    int right = k;
 
     int answer = 0;
 
